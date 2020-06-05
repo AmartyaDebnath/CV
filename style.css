@@ -1,0 +1,167 @@
+/******tag style***********/
+body {
+  margin: 0;
+  text-align: center;
+}
+
+footer {
+  display: block;
+  background-color: #66bfbf;
+  margin: 50px 0px 0px;
+}
+
+h1 {
+  color: #00bcd4;
+  font-size: 85px;
+  font-family: 'Montez', cursive;
+  margin: 0px auto;
+  padding-top: 150px;
+}
+
+h2 {
+  color: #00bcd4;
+  font-size: 35px;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px auto;
+}
+
+h3 {
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+hr {
+  border: dotted 5px lightgrey;
+  border-bottom: 0;
+  width: 3%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 1.1rem;
+  line-height: 2;
+  margin: 20px auto;
+}
+
+span {
+  font-weight: bold;
+}
+
+a:hover {}
+
+/**********class style********/
+.cloud {
+  height: 100px;
+  width: 150px;
+}
+
+.c1 {
+  display: inline-block;
+  position: absolute;
+  left: 70%;
+  margin-top: 50px;
+}
+
+.c2 {
+  display: inline-block;
+  position: absolute;
+  left: 30%;
+  margin-top: 50px;
+}
+
+.codeing {
+  width: 20%;
+  float: right;
+  margin: 30px;
+}
+
+.gaming {
+  width: 20%;
+  float: left;
+  margin: 5px 30px 30px;
+}
+
+.social {
+  height: 30px;
+  width: 30px;
+  margin-top: 15px;
+  padding: 10px;
+  opacity: 1;
+}
+
+.social:hover {
+  opacity: 0.3;
+}
+
+.mountain {
+  display: block;
+  height: 30rem;
+  width: 60rem;
+  margin: 20px auto;
+}
+
+.profile {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin: 100px auto 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto 100px;
+  text-align: left;
+}
+
+.top-section {
+  background-color: #ecfbfc;
+  position: relative;
+  margin: 0;
+}
+
+.middle-section {
+  margin: 0;
+}
+
+.bottom-section {
+  margin: 0;
+}
+
+.testbutton {
+  background-color: #66bfbf;
+  border-radius: 7px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 24px;
+  padding: 19px 27px;
+  text-decoration: none;
+  margin: 30px 0 50px;
+}
+
+.testbutton:hover {
+  background-color: #11999e;
+}
+
+/****id style***/
+#intro {
+  color: #00bcd4;
+  font-size: 35px;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px auto;
+}
+
+#copyright {
+  color: #eaf6f6;
+  font-family: sans-serif;
+  font-size: 1rem;
+  line-height: 2;
+  margin: 10px auto;
+}
